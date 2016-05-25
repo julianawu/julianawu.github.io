@@ -65,13 +65,8 @@ p {
         margin-top: 16pt;
 }
 
-.profile-links img{
-  width:16px;
-  height:16px;
-  opacity:0.4;
-}
 
-.profile-links img:hover{
+.profile-text img:hover{
   opacity:1;
 }
 
@@ -82,11 +77,17 @@ p {
   width:100%;
 }
 
-.profile-links li{
+.profile-text li{
   display:inline;
   list-style-type:none;
   padding-left:6px;
   padding-right:6px;
+}
+
+.profile-text img{
+  width:16px;
+  height:16px;
+  opacity:0.4;
 }
 
 .profile-text h1{
