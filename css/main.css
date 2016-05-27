@@ -116,13 +116,13 @@ p {
   font-family:'Karla', sans-serif;
   font-size:12px;
   font-weight:400;
-  opacity:1;
+  opacity:0.4;
   letter-spacing:0.5px;
   text-align:center;
 }
 
 .profile-text h2:hover{
-  opacity:0.4;
+  opacity:1.0;
 }
 
 .profile-text h3{
