@@ -16,7 +16,7 @@ a {
 
 #border-t, #border-b, #border-l, #border-r {
   position: fixed;
-  background: #F7CAC9;
+  background: #88B04B;
   z-index: 9999;
   display:block;
 }
